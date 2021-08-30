@@ -1,7 +1,7 @@
 === WordPress plugin for unofficial Braille Institute founder font ===
 Contributors: milosz.galazka
 Tags: font
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires at least: 5.8
 Tested up to: 5.8
 Requires PHP: 7.4
@@ -25,6 +25,11 @@ Use https://www.brailleinstitute.org/wp-content/uploads/2020/11/Atkinson-Hyperle
 
 
 == Changelog ==
+
+= 1.0.2 =
+*Release Date - 30 August 2021*
+
+* CSS update
 
 = 1.0.1 =
 *Release Date - 29 August 2021*

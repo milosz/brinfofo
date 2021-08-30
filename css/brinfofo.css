@@ -27,13 +27,13 @@
 }
 
 body {
-    font-family: 'Atkinson Hyperlegible', Fallback, sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 p {
-    font-family: 'Atkinson Hyperlegible', Fallback, serif;
+    font-family: 'Atkinson Hyperlegible', serif;
 }
 
 h1,h2,h3,h4,h5,h6  {
-    font-family: 'Atkinson Hyperlegible', Fallback, sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
