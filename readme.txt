@@ -26,6 +26,11 @@ Use https://www.brailleinstitute.org/wp-content/uploads/2020/11/Atkinson-Hyperle
 
 == Changelog ==
 
+= 1.0.1 =
+*Release Date - 29 August 2021*
+
+* Plugin name change
+
 = 1.0.0 =
 *Release Date - 29 August 2021*
 
