@@ -1,4 +1,4 @@
-=== WordPress plugin for Braille Institute founder font (unofficial) ===
+=== WordPress plugin for unofficial Braille Institute founder font ===
 Contributors: milosz.galazka
 Tags: font
 Stable tag: 1.0.0
